@@ -1,14 +1,14 @@
 @font-face {
     font-family: 'NotoSansJP';
-    src: url('/Font/NotoSansJP.ttf');
+    src: url('NotoSansJP.ttf');
 }
 @font-face {
     font-family: 'bold2';
-    src: url('/Font/bold2.ttf');
+    src: url('bold2.ttf');
 }
 @font-face {
     font-family: 'light';
-    src: url('/Font/light.ttf');
+    src: url('light.ttf');
 }
 *{
     margin: 0;
@@ -130,7 +130,7 @@ html, body{
     bottom: 0;
     height: 20px;
     position: absolute;
-   background-image: url("/imges/border.gif");
+   background-image: url("border.gif");
    background-repeat: no-repeat;
    background-size: cover;
    width: 100%;
